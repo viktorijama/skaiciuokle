@@ -1,0 +1,56 @@
+.nav li {
+  height: 50px;
+  text-align: center;
+  padding-top: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.tab-i-rankas,
+.forma-i-rankas {
+  background-color: #F7D358;
+}
+
+.tab-ant-popieriaus,
+.forma-ant-popieriaus {
+  background-color: #86B404;
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+  color: white;
+}
+
+.btn {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.forma-i-rankas,
+.forma-ant-popieriaus {
+  height: 50px;
+  padding-top: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+.autorines {
+  background-color: #F7BE81;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+}
+
+.rezultatai,
+.autoriniu-mokesciai {
+  text-align: center;
+  font-size: 18px;
+}
